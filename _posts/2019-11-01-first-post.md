@@ -6,7 +6,7 @@ categories:
   - Blog
 tags:
   - Blog
-last_modified_at: {{ page.last_modified_at }}
+last_modified_at: 2019-11-01
 ---
 
 나도 github 블로그를 
